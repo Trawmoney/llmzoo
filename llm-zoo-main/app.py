@@ -4,8 +4,6 @@ import os
 import litellm
 from litellm import completion
 from dotenv import load_dotenv
-from io import BytesIO
-from gtts import gTTS, gTTSError
 
 # load .env, so litellm reads from .env
 load_dotenv()
