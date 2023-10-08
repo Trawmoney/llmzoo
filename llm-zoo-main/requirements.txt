@@ -1,4 +1,2 @@
 litellm
 streamlit
-gTTS
-BytesIO
