@@ -1,2 +1,4 @@
 litellm
 streamlit
+gTTS
+BytesIO
