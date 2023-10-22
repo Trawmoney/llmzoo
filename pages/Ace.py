@@ -1,9 +1,4 @@
 import streamlit as st
+from code_editor import code_editor
 
-from streamlit_ace import st_ace
-
-# Spawn a new Ace editor
-content = st_ace()
-
-# Display editor's content as you type
-content
+response_dict = code_editor(your_code_string)
