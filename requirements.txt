@@ -3,6 +3,8 @@ litellm
 langchain
 fireworks-ai
 openai
+pandas
+tabulate
 google-search-results
 streamlit-chat
 streamlit_javascript
