@@ -1,3 +1,4 @@
+llama-cpp-python
 streamlit
 litellm
 langchain
@@ -5,6 +6,7 @@ fireworks-ai
 openai
 pandas
 tabulate
+numpy
 google-search-results
 streamlit-chat
 streamlit_javascript
