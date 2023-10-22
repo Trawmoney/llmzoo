@@ -1,4 +1,8 @@
-litellm
 streamlit
-fireworks-ai
+litellm
 langchain
+fireworks-ai
+openai
+google-search-results
+streamlit-chat
+streamlit_javascript
