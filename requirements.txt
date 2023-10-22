@@ -8,3 +8,4 @@ tabulate
 google-search-results
 streamlit-chat
 streamlit_javascript
+streamlit_code_editor
