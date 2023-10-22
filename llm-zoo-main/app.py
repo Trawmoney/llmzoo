@@ -50,7 +50,7 @@ def main():
 
         # Dropdowns for model selection
         selected_models = []
-        for i in range(4):
+        for i in range(1):
             selected_model = st.selectbox(f"Select Model {i+1}", model_names, index=i)
             selected_models.append(selected_model)
                 
