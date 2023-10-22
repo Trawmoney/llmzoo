@@ -1,7 +1,7 @@
 import openai
 import streamlit as st
 
-st.title("ChatGPT-like clone")
+st.title("🎆Mistral Chat")
 
 openai.api_base = "https://api.fireworks.ai/inference/v1"
 openai.api_key = "ku9UYtzjSAATlcAstO8yrB89MzvDqJL3lGIkNgnVZ7URxPxK"
@@ -21,7 +21,7 @@ if prompt := st.chat_input("What is up?"):
     with st.chat_message("user"):
         st.markdown(prompt)
 
-    with st.chat_message("🦖"):
+    with st.chat_message("🪅"):
         message_placeholder = st.empty()
         full_response = ""
         for response in openai.ChatCompletion.create(
