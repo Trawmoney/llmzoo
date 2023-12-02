@@ -1,3 +1,15 @@
+# v0.0.2 (Sat Dec 02 2023)
+
+#### ⚠️ Pushed to `main`
+
+- Added Dev Container Folder ([@Trawmoney](https://github.com/Trawmoney))
+
+#### Authors: 1
+
+- Neuromancer ([@Trawmoney](https://github.com/Trawmoney))
+
+---
+
 # v0.0.1 (Mon Oct 30 2023)
 
 :tada: This release contains work from a new contributor! :tada:
